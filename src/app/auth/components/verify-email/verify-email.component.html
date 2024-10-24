@@ -1,0 +1,34 @@
+<div class="container-fluid p-4">
+  <h3 class="text-center">Thank You for Registering</h3>
+
+  <div *ngIf="authService.userData as user">
+    <h5 class="text-center">
+      We have sent a confirmation email to <strong>{{ user.email }}</strong
+      >.
+    </h5>
+    <h5 class="text-center">
+      Please check your email and click on the link to verfiy your email
+      address.
+    </h5>
+  </div>
+
+  <!-- Calling SendVerificationMail() method using authService Api -->
+  <div class="text-center m-4">
+    <button
+      type="button"
+      class="btn btn-primary"
+      (click)="authService.SendVerificationMail()"
+    >
+      <i class="pi pi-replay"></i>
+      Resend Verification Email
+    </button>
+  </div>
+
+  <div class="text-center">
+    <span
+      >Go back to?<a href="javascript:void(0)" (click)="goToSignIn()">
+        Sign in</a
+      ></span
+    >
+  </div>
+</div>
