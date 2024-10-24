@@ -33,16 +33,11 @@ The **Sibyl System** is a Conversation Simulation System (CSS) designed to facil
 ## Impact
 The **Sibyl System** offers a controlled, measurable environment for dialogue simulations, making it a powerful tool for communication training, social research, and AI development. By refining AI's role in realistic human interactions, this project has applications in education, psychological research, and beyond.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/sibyl-system.git
-
-##Configuration
+## Configuration
 Ensure you configure the environment.ts file with the necessary API keys and Firebase configuration.
 
-##License
+## License
 This project is licensed under the MIT License.
 
-##Contact
+## Contact
 For any questions or support, reach out to us at: arcadia@sibylsystemsimulator.com
