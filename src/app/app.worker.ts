@@ -12,7 +12,7 @@ async function postData(url = '', data = {}) {
     credentials: 'same-origin', // include, *same-origin, omit
     headers: {
       'Content-Type': 'application/json',
-      Authorization: `Bearer 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`,
+      Authorization: ``,
     },
     redirect: 'follow', // manual, *follow, error
     referrerPolicy: 'no-referrer', // no-referrer, *no-referrer-when-downgrade, origin, origin-when-cross-origin, same-origin, strict-origin, strict-origin-when-cross-origin, unsafe-url
