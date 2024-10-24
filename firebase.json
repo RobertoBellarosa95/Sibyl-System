@@ -1,0 +1,33 @@
+{
+  "firebase": "sibyl-system",
+  "public": "dist/sibyl-system",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ],
+  "rewrites": [
+    {
+      "source": "/public/**",
+      "destination": "/public.html"
+    },
+    {
+      "source": "**",
+      "destination": "/index.html"
+    }
+  ],
+  "hosting": {
+    "public": "dist/sibyl-system",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

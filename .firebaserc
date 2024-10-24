@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "sibyl-system-simulator",
+    "dev": "sibyl-system-simulator"
+  },
+  "targets": {},
+  "etags": {}
+}
