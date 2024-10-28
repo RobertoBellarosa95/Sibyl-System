@@ -27,7 +27,6 @@ The **Sibyl System** is a Conversation Simulation System (CSS) designed to facil
   
 ## Potential Challenges
 - **Scalability**: Ensuring the system performs well with a large number of simultaneous conversations.
-- **Data Privacy**: Implementing strong security measures to safeguard sensitive user data.
 - **NLP Accuracy**: Continuously improving the relevance and accuracy of AI-generated responses to create coherent and engaging conversations.
 
 ## Impact
