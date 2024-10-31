@@ -18,12 +18,6 @@ The **Sibyl System** is a Conversation Simulation System (CSS) designed to facil
 - **Backend Services**: Integration with OpenAI and Firebase for AI models and authentication.
 - **Database**: Firebase for real-time data management and storage.
 - **UI Components**: PrimeNG and Bootstrap for styling and UI elements.
-
-## Scripts
-- `ng serve`: Start the development server.
-- `ng build`: Build the project for production.
-- `ng test`: Run unit tests using Karma.
-- `ng start-prod`: Start the server in production mode.
   
 ## Potential Challenges
 - **Scalability**: Ensuring the system performs well with a large number of simultaneous conversations.
