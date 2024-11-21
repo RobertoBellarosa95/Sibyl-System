@@ -3,6 +3,9 @@
 ## Overview
 The **Sibyl System** is a Conversation Simulation System (CSS) designed to facilitate and analyze interactions between a configurable number of entities, both AI and human, on a specified theme. The goal is to emulate realistic dialogues, providing insights into communication patterns, decision-making processes, and thematic discourse effectiveness.
 
+## Live Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=GdU0d_yPoTE/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=GdU0d_yPoTE)
+
 ## Objectives
 - **Configurability**: Easily adjust the number of participating entities and select conversation themes according to user specifications.
 - **Interactivity**: A seamless user interface that allows participants to engage in conversations naturally and coherently.
